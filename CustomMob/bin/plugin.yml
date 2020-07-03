@@ -1,0 +1,5 @@
+main: me.andreiwasfound.custommob.Main
+name: CustomMob
+author: AndreiWasFound
+version: 1.0
+api-version: 1.15
